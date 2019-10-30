@@ -20,7 +20,7 @@ be used in any map. Tilesets can be modified at any time.
 About the Qt Version
 -------------------------------------------------------------------------------
 
-Tiled was originally written in Java. In 2008, work began to develop a faster,
+Tiled was originally written in Java. In 2008, a hard work began to develop a faster,
 better looking, and easier-to-use version of Tiled based on the Qt framework.
 This decision was made as the Qt framework has a greater feature set than is
 offered by the standard Java libraries.
@@ -40,7 +40,7 @@ libraries have been installed as well as the Qbs build tool:
   + `brew link qt5 --force`
 
 If you want to build the Python plugin, you additionally need to install the
-Python 3 development libraries:
+Python 3 development libraries, you can find them below:
 
 * On Ubuntu/Debian: `sudo apt install python3-dev`
 * On Windows: https://www.python.org/downloads/windows/
